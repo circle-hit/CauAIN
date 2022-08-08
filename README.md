@@ -11,7 +11,7 @@
 
 ## Preparation
 
-### Datasets, Utterance Feature and CommonSense Feature
+### Datasets, Utterance Feature and Commonsense Feature
 You can download the dataset, extracted utterance feature and commonsense feature we used from:
 https://pan.baidu.com/s/1hNuUgUmjdOOQ1cqT75n-ZA  提取码:nwqa
 
