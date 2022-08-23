@@ -31,3 +31,14 @@ For MELD:
 
 For DailyDialog: 
 `python train_dailydialog.py`
+
+## Citation
+If you find our work useful for your research, please kindly cite our paper as follows:
+```
+@inproceedings{CauAIN2022,
+  author={Weixiang Zhao, Yanyan Zhao and Xin Lu},
+  title     = {CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, {IJCAI} 2022, Vienna, Austria, 23-29 July 2022},
+  year      = {2022},
+}
+```
